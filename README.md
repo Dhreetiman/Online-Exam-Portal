@@ -230,7 +230,7 @@ Distributed under the no License.
 <!-- Contact -->
 ## :handshake: Contact
 
-Chintan Golakiya - [@_chint4n_](https://twitter.com/_chint4n_) - golakiyachintan24@gmail.com
+Dhreetiman - dhreetiman02@gmail.com
 
 Project Link: [https://github.com/Dhreetiman/online-exam-portal](https://github.com/Dhreetiman/online-exam-portal)
 
