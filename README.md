@@ -230,7 +230,7 @@ Distributed under the no License.
 <!-- Contact -->
 ## :handshake: Contact
 
-Dhreetiman - dhreetiman02@gmail.com
+Dhreetiman - dhreetiman09999@gmail.com
 
 Project Link: [https://github.com/Dhreetiman/online-exam-portal](https://github.com/Dhreetiman/online-exam-portal)
 
